@@ -1,1 +1,33 @@
-
+I am creating CTA (Call to Action) sections for 
+my client's clothing store website.
+My Client:
+- Business Name: Maya Garments
+- Location: Boisar, Maharashtra - Pin Code 401501
+- Brand stocked: Origana and other store articles
+- Price range: Budget to premium — mix of all ranges
+- Key strengths: Branded clothes, latest trends, 
+  festive collections, wide variety, friendly staff, 
+  good quality at honest prices
+I need 3 different CTA sections for different 
+parts of the website:
+CTA 1 — Festive / Urgency based:
+I want to encourage visitors to come to the store 
+before the festive season (Diwali / Navratri / Eid). 
+Please mention the Origana brand and festive collection. 
+Add a mild sense of urgency — limited stock available.
+CTA 2 — Trust / Reliability based:
+I want to highlight that Maya Garments is a trusted 
+local store in Boisar. Mention branded clothes 
+(Origana), quality, and honest prices. 
+Help families feel confident choosing this store.
+CTA 3 — Location / Visit based:
+I want to invite people from Boisar and nearby areas 
+like Tarapur, Palghar, and Nalasopara to visit the store. 
+Emphasize that there is no need to travel to the city — 
+everything is available right here in Boisar.
+For each CTA please write:
+- 1 powerful, warm heading
+- 2 lines of supporting text
+- 1 button text
+Tone: Warm, community-feel, honest — 
+not pushy or overly salesy.
