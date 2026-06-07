@@ -1,0 +1,42 @@
+I am working on a website copywriting project for a local 
+clothing store that I have chosen as my client for this task.
+My Client Details:
+- Business Name: Maya Garments
+- Business Type: Physical clothing retail store
+- Location: Boisar, Maharashtra - Pin Code 401501
+- Brand we stock: Origana (along with other store articles)
+Collections available at my client's store:
+- Men's Wear (shirts, trousers, ethnic wear)
+- Kids' Wear (toddlers to teens, school and casual)
+- Western Wear (jeans, tops, co-ords, trendy styles)
+- Daily / Casual Wear (comfortable everyday basics)
+- Festive & Special Occasion (Diwali, Eid, weddings)
+Price range: We offer a mix of all ranges — from 
+budget-friendly daily wear to premium festive outfits, 
+so every customer finds something in their budget.
+What makes my client's store special:
+- Branded clothes available, including Origana
+- Latest designs and trends always in stock
+- Special festive collections every season
+- Friendly and helpful staff
+- Wide variety of clothing under one roof
+- Good quality products at honest, low prices
+Target audience I am writing for:
+Families, men, kids, and young adults living in 
+Boisar and nearby areas like Tarapur and Palghar.
+Tone I want: Warm, welcoming, and local — 
+should feel like a trusted neighbourhood store, 
+not a big corporate brand.
+Please write homepage copy that includes:
+1. A strong headline (max 10 words) with a clear 
+   value proposition for this store
+2. A sub-headline (1-2 lines) explaining who this 
+   store is for and what the main benefit is
+3. An intro paragraph (3-4 lines) that builds trust 
+   and naturally mentions Boisar
+4. 5 benefit-driven bullet points explaining why 
+   customers should shop at Maya Garments
+5. One CTA button text and one supporting line below it
+Please avoid generic phrases. The copy should sound 
+human, local, and ready to publish on a real website.
+Mention the Origana brand naturally in the content.
