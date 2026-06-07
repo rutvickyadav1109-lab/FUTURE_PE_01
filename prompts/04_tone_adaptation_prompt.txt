@@ -1,0 +1,27 @@
+As part of my prompt engineering internship task, 
+I am building a reusable website copy framework 
+that can work for different types of local businesses.
+To demonstrate adaptability, I first wrote a homepage 
+headline for my client Maya Garments 
+(a clothing store in Boisar, Maharashtra):
+"Boisar's Favourite Stop for Styles That Fit Every Life"
+This headline was crafted with:
+- Tone: Warm, local, community-feel
+- Audience: Families and young adults in Boisar
+- Core USP: Wide variety + branded clothes + honest prices
+Now I want to show how the same value proposition 
+framework can be adapted for 3 different 
+local business types in the same town:
+1. A local hair salon in Boisar
+   Target tone: Fun, confidence-boosting, friendly
+2. A medical or dental clinic in Boisar
+   Target tone: Calm, trustworthy, professional
+3. A coaching institute in Boisar
+   Target tone: Motivational, ambitious, encouraging
+For each adaptation please write:
+- A new headline (max 10 words)
+- A new sub-headline (1-2 lines)
+- 1 line explaining what tone change was made and why
+This output will be part of my internship submission 
+to show that my prompt framework is reusable 
+across multiple industries.
