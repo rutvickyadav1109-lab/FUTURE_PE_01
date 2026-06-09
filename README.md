@@ -1,5 +1,5 @@
 # Maya Garments — AI-Generated Website Copy
-### Prompt Engineering Internship | Track: PE | Task: 03
+### Prompt Engineering Internship | Track: PE | Task: 01
 
 ---
 
@@ -84,3 +84,8 @@ outputs/ → AI-generated copy from Claude + ChatGPT
 
 *Prompt Engineering Internship Task 03 | Track: PE*
 *Tool: Claude + ChatGPT | Business: Maya Garments, Boisar*
+
+## Submitted By
+**Name:** [rutvick yadav]  
+**Internship:** Prompt Engineering Internship  
+**Task:** FUTURE_PE_02
